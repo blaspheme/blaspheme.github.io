@@ -2,8 +2,8 @@
 title: 暁の履歴書
 description: 暁の履歴書
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: 
+url: https://github.com/blaspheme/blaspheme.github.io
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,9 +14,9 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
+  name: 暁
+  title: 算法工程师
+  address: Tokyo, Japan
   email: dongg.liang#gmail.com
   link: http://ddbullfrog.com
   weibo:
@@ -81,5 +81,5 @@ author:
       name: AngularJS
       percentage: 70%
     - skill5:
-      name: Java/Java EE
+      name: Vue
       percentage: 90%
