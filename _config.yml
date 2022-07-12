@@ -5,7 +5,7 @@ favicon: /assets/img/avatar.JPG
 baseurl: 
 url: https://github.com/blaspheme/blaspheme.github.io
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: 
 
 # Build settings
 markdown: kramdown
@@ -62,7 +62,7 @@ author:
       title: 算法工程师
       started: 2017
       duration: (2017.3 - 2020.3)
-      description: 期间从事算法开发：①贝叶斯概率论(DNN)的研究和实现;②Semantic Network的研究与实现;③图数据库与图算法的研究与实现;④其他的各类算法实现
+      description: 期间从事算法开发：①贝叶斯概率论(DNN)的研究和实现;②Semantic Network、NLP的研究与实现;③图数据库与图算法的研究与实现;④其他的各类算法实现
     - company1:
       company: 厦门吉联科技有限公司
       location: 厦门, 中国
@@ -89,6 +89,9 @@ author:
     - language3:
       name: Japanese
       proficiency: Limit
+  patent:
+    - patent1:
+      name: 专利1
   programmingSkills:
     - skill1:
       name: AI&ML
