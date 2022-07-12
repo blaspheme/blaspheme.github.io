@@ -89,9 +89,20 @@ author:
     - language3:
       name: Japanese
       proficiency: Limit
+  award:
+    - award1:
+      name: 全国大学生数学建模比赛国家一等奖
   patent:
     - patent1:
-      name: 专利1
+      name: 201710782155.9(申请号)
+    - patent2:
+      name: 201810953598.4(申请号)
+    - patent3:
+      name: PA18042089(方案号)
+    - patent4:
+      name: 201811276062.X(申请号)
+    - patent5:
+      name: PA19015796(方案号)
   programmingSkills:
     - skill1:
       name: AI&ML
