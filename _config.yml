@@ -48,6 +48,13 @@ author:
       started: 2009
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  companyHistory:
+    - company1:
+      company: 厦门吉联科技有限公司
+      location: 厦门, 中国
+      title: Java Developer
+      started: 2016
+      duration: (2016.7 - 2017.3)
   educationHistory:
     - education1:
       organization: 集美大学诚毅学院
