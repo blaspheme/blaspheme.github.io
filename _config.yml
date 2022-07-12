@@ -1,7 +1,7 @@
 # Site settings
 title: 暁の履歴書
 description: 暁の履歴書
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.jpeg
 baseurl: 
 url: https://github.com/blaspheme/blaspheme.github.io
 rss_url: /pages/atom.xml
