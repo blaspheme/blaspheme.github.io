@@ -55,6 +55,7 @@ author:
       title: Java Developer
       started: 2016
       duration: (2016.7 - 2017.3)
+      description: 期间主要使用的技术栈：①OSGI+JFace+RCP3.x(Eclipse)开发原生桌面端;②Spring+Struts2+Hibernate后台开发;③Oracle使用;④Maven、WebLogic、VBA等各类工具使用
   educationHistory:
     - education1:
       organization: 集美大学诚毅学院
