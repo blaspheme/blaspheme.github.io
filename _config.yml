@@ -107,15 +107,21 @@ author:
     - skill1:
       name: AI&ML
       percentage: 80%
-    - skill2:
-      name: 概率论&统计学
-      percentage: 80%
     - skill3:
       name: 操作系统
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: Cloud Native
       percentage: 70%
     - skill5:
-      name: Vue
-      percentage: 90%
+      name: DevOps
+      percentage: 70%
+    - skill6:
+      name: Web开发
+      percentage: 70%
+    - skill7:
+      name: GUI开发
+      percentage: 70%
+    - skill2:
+      name: 概率论&统计学
+      percentage: 80%
