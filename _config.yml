@@ -49,6 +49,20 @@ author:
       duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   companyHistory:
+    - company3:
+      company: 南京新智感信息科技有限公司
+      location: 南京, 中国
+      title: 架构师
+      started: 2020
+      duration: (2020.9 - 2022.3)
+      description: 期间主要从事架构职位：①RPA(UiBot)实践;②Cloud Native实践;③SpringBoot(RESTFul、SOAP)系统构建
+    - company2:
+      company: 南京中孚信息技术有限公司
+      location: 南京, 中国
+      title: 算法工程师
+      started: 2017
+      duration: (2017.3 - 2020.3)
+      description: 期间从事算法开发：①贝叶斯概率论(DNN)的研究和实现;②Semantic Network的研究与实现;③图数据库与图算法的研究与实现;④其他的各类算法实现
     - company1:
       company: 厦门吉联科技有限公司
       location: 厦门, 中国
