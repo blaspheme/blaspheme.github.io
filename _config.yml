@@ -27,7 +27,7 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-    - work1:
+    - work3:
       company: XXX Ltd
       location: Auckland, New Zealand
       title: Java Developer
@@ -41,13 +41,13 @@ author:
       started: 2012
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work1:
+      company: 全球海运系统
+      location: 厦门, 中国
+      title: 厦门吉联科技有限公司
+      started: 2016
+      duration: (2016.7 - 2017.3)
+      description: 主要负责使用Java，完成原生GUI和后端Web服务的开发，
   companyHistory:
     - company3:
       company: 南京新智感信息科技有限公司
@@ -55,7 +55,7 @@ author:
       title: 架构师
       started: 2020
       duration: (2020.9 - 2022.3)
-      description: 期间主要从事架构职位：①RPA(UiBot)实践;②Cloud Native实践;③SpringBoot(RESTFul、SOAP)系统构建
+      description: 期间主要从事架构职位：①RPA(UiBot)实践;②Cloud Native实践;③DevOps体系的培训与实践;④SpringBoot(RESTFul、SOAP)系统构建
     - company2:
       company: 南京中孚信息技术有限公司
       location: 南京, 中国
