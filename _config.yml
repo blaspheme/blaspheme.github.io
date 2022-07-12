@@ -18,11 +18,11 @@ author:
   title: 算法工程师
   address: Tokyo, Japan
   email: mooncrime93@gmail.com
-  link: http://ddbullfrog.com
+  link: 
   weibo:
   github: blaspheme
-  linkedin: blaspheme
-  twitter: blaspheme
+  linkedin: 
+  twitter: 
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -69,13 +69,13 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: AI&ML
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: 概率论&统计学
+      percentage: 80%
     - skill3:
-      name: JavaScript
+      name: 操作系统
       percentage: 70%
     - skill4:
       name: AngularJS
