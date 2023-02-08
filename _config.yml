@@ -77,7 +77,7 @@ author:
       duration: (2016.7 - 2017.3)
       description: 主要负责使用Java，完成原生GUI和后端Web服务的开发，在职期间写过8000多行的Oracle的存储过程；使用其他的各种语言完成对数据处理，VBA、Python、R等
   companyHistory:
- - company4:
+    - company4:
       company: スマカン
       location: 东京, 日本
       title: Java开发
