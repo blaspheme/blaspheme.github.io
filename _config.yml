@@ -27,6 +27,13 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
+    - work7:
+      company: Public就業(公的機関向け就業管理システム)
+      location: 东京, 日本
+      title: スマカン
+      started: 2022
+      duration: (2022.9 - 至今)
+      description: SpringBoot+Vue+Oracle完成开发任务，Tomcat的深度管理
     - work6:
       company: 国家电网ERP系统
       location: 南京, 中国
@@ -70,6 +77,13 @@ author:
       duration: (2016.7 - 2017.3)
       description: 主要负责使用Java，完成原生GUI和后端Web服务的开发，在职期间写过8000多行的Oracle的存储过程；使用其他的各种语言完成对数据处理，VBA、Python、R等
   companyHistory:
+ - company4:
+      company: スマカン
+      location: 东京, 日本
+      title: Java开发
+      started: 2022
+      duration: (2022.9 - 至今)
+      description: Java开发
     - company3:
       company: 南京新智感信息科技有限公司
       location: 南京, 中国
