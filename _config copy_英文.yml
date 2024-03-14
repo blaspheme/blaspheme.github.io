@@ -1,0 +1,129 @@
+# Site settings
+title: Wang's Resume
+description: Wang's Resume
+favicon: /assets/img/avatar.jpeg
+baseurl: 
+url: https://github.com/blaspheme/blaspheme.github.io
+rss_url: /pages/atom.xml
+google_analytics: 
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Wang Xiao
+  title: Software Engineer
+  address: Tokyo, Japan
+  email: mooncrime93@gmail.com
+  link: 
+  weibo:
+  github: blaspheme
+  linkedin: 
+  twitter: 
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work7:
+      company: 勤怠システム
+      location: Tokyo, Japan
+      title: One人事
+      started: 2023
+      duration: (2023.7 - Now)
+      description: Paperless employee attendance information and work data.
+    - work7:
+      company: Public就業(公的機関向け就業管理システム)
+      location: Tokyo, Japan
+      title: One人事
+      started: 2022
+      duration: (2022.9 - 2023.7)
+      description: Personnel and salary package compatible with national civil servants, local civil servants, and independent administrative agencies.
+    - work6:
+      company: State Grid ERP system
+      location: Nanjing, China
+      title: 南京新智感信息科技有限公司
+      started: 2021
+      duration: (2021.3 - 2022.3)
+      description: Power plant status detection, equipment abnormality alarm, large screen data display.
+    - work5:
+      company: RPA
+      location: Nanjing, China
+      title: 南京新智感信息科技有限公司
+      started: 2020
+      duration: (2020.9 - 2021.3)
+      description: Build an RPA/automated test system and complete the DevOps acceptance process. Gitlab+Gitlab runner +git flow defines the software development process.
+    - work2:
+      company: NLP System
+      location: Nanjing, China
+      title: 中孚信息技术有限公司
+      started: 2017
+      duration: (2017.3 - 2020.3)
+      description: It uses artificial intelligence technology to process Chinese words such as word segmentation, word vectors, meaning understanding, sentiment analysis, correlation analysis, prediction, and early warning.
+    - work1:
+      company: Global maritime system
+      location: Xiamen, China
+      title: 厦门吉联科技有限公司
+      started: 2016
+      duration: (2016.7 - 2017.3)
+      description: In the world of the ship, there are navigation, route planning, customs information, notes, onshore management, crew life on the ship, and calculation.
+  educationHistory:
+    - education1:
+      organization: Chengyi College，Jimei University
+      location: Xiamen, China
+      degree: Bachelor
+      major: Software Engineering
+      started: 2012
+      duration: (2012 - 2016)
+      description: 
+  languages:
+    - language1:
+      name: Chinese
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: 四级
+    - language3:
+      name: Japanese
+      proficiency: N5
+  award:
+    - award1:
+      name: CUMCM National first prize
+  patent:
+    - patent1:
+      name: 201710782155.9
+    - patent2:
+      name: 201810953598.4
+    - patent3:
+      name: PA18042089
+    - patent4:
+      name: 201811276062.X
+    - patent5:
+      name: PA19015796
+  programmingSkills:
+    - skill1:
+      name: AI&ML
+      percentage: 80%
+    - skill3:
+      name: Operating System
+      percentage: 70%
+    - skill4:
+      name: Cloud Native
+      percentage: 70%
+    - skill5:
+      name: DevOps
+      percentage: 70%
+    - skill6:
+      name: Web Development
+      percentage: 70%
+    - skill7:
+      name: GUI Development
+      percentage: 70%
+    - skill2:
+      name: Database
+      percentage: 80%
+    - skill8:
+      name: Data Process
+      percentage: 80%
